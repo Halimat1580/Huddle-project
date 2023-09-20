@@ -1,0 +1,45 @@
+ @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&family=Poppins:wght@600&family=Roboto:wght@400;500&display=swap');
+
+
+
+
+
+/* header */
+header{
+    background: url(images/bg-hero-desktop.svg) hsl(189, 100%, 97%) no-repeat ;   
+}
+
+
+/* nav section */
+nav img{
+    width: 8rem;
+}
+
+nav button{
+    width: 10rem;
+}
+ 
+    .header-content h2{
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .hero-content button{
+        background-color: hsl(322, 100%, 66%);
+    }
+
+
+    .btn2{
+        background-color: hsl(322, 100%, 66%);
+        color: white;
+        border: none;
+        width: 20rem;
+        height: 3rem;
+        margin-bottom: 5rem;
+    }
+
+    footer{
+        background-color:hsl(192, 100%, 9%)
+    }
+
+   
+   
